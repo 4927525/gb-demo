@@ -1,9 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
+* [Part I](part1/README.md)
+    * [Writing is nice](part1/writing.md)
+    * [GitBook is nice](part1/gitbook.md)
+* [Part II](part2/README.md)
+    * [We love feedback](part2/feedback_please.md)
+    * [Better tools for authors](part2/better_tools.md)
 
-# 咋还能三
-
-**啊十多个撒的**
-
-![](https://cdn.jsdelivr.net/gh/4927525/images@master/20210630/tu.5e5heenljvw0.jpg)
